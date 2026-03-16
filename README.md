@@ -10,7 +10,9 @@
 
 ---
 
-## I turn coffee ☕ into code  <br>Building apps 📱 with Next.js, React, React Native, and Laravel<br>I am currently woring on MCenter and Maayo Shipping<br><br># I debug faster after 2am 🌙 <br><br>
+## I turn coffee ☕ into code  <br>Building apps 📱 with Next.js, React, React Native, and Laravel<br>I am currently woring on MCenter and Maayo Shipping<br><br>
+
+# I debug faster after 2am 🌙
 
 ---
 # 🌐 **Socials:**
