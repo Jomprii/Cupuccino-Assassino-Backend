@@ -1,13 +1,14 @@
 
 <div align="center">
-👋 Hi, I'm Jompers
+# **👋 Hi, I'm Jompers**
+## *I am a Deveoper 💻 Turning ideas💡into code 🛠️*
 </div>
 
 ---
 
-## <br><br>I am a Deveoper 💻 Turning ideas💡into code 🛠️<br><br>I turn coffee ☕ into code  <br>Building apps 📱 with Next.js, React, React Native, and Laravel<br>I am currently woring on MCenter and Maayo Shipping<br><br>I debug faster after 2am 🌙 <br><br>
+ I turn coffee ☕ into code  <br>Building apps 📱 with Next.js, React, React Native, and Laravel<br>I am currently woring on MCenter and Maayo Shipping<br><br>I debug faster after 2am 🌙 <br><br>
+ 
 ---
-
 # 🌐 **Socials:**
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/junefree.yamson.7) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_jompri/?hl=en) 
@@ -18,8 +19,6 @@
 ---
 
 # 💻 **Technoligies and Tools:**
-
----
 
 ### **Language**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
