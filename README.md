@@ -1,13 +1,15 @@
 
 <div align="center">
 # **👋 Hi, I'm Jompers**
-## *I am a Deveoper 💻 Turning ideas💡into code 🛠️*
+### *I am a Deveoper 💻 Turning ideas💡into code 🛠️*
+
+![](https://komarev.com/ghpvc/?username=rjzen&label=Profile%20Views&color=blue&style=for-the-badge)
 </div>
 
 ---
 
  I turn coffee ☕ into code  <br>Building apps 📱 with Next.js, React, React Native, and Laravel<br>I am currently woring on MCenter and Maayo Shipping<br><br>I debug faster after 2am 🌙 <br><br>
- 
+
 ---
 # 🌐 **Socials:**
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/junefree.yamson.7) 
