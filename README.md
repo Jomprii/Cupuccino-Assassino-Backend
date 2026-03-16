@@ -2,7 +2,7 @@
 <div align="center">
 
 # **👋 Hi, I'm Jompers**
-### *I am a Deveoper 💻 Turning ideas💡into code 🛠️*
+### I am a Deveoper 💻 Turning ideas💡into code 🛠️
 
 ![](https://komarev.com/ghpvc/?username=rjzen&label=Profile%20Views&color=blue&style=for-the-badge)
 
